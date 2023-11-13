@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Asus\IdeaProjects\AmineNaitSlimene_LSI3_SOA_TP5_client\.metadata\.plugins\org.eclipse.jdt.core
